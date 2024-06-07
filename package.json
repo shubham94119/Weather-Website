@@ -1,0 +1,14 @@
+{
+  "name": "projectweatherquotes",
+  "version": "1.0.0",
+  "description": "This project give information about weather and current time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Raj",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
